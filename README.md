@@ -1,2 +1,0 @@
-# ForecastUtil
-JavaDoc for ForecastUtil
